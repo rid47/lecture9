@@ -1,0 +1,20 @@
+GITHUB:
+Fork : to make a copy of public repo into your own repo
+They use docker
+Use feature branch
+Git checkout –b ‘map’
+Git status
+Git add
+Git commit –m “msg”
+Git checkout master
+Git checkout map
+Git push rid47 map
+Compare & pull request
+Review is provided at this point and travis does the test
+Checkout feature flipper, hubot on google
+
+TRAVIS CI:
+
+know about test framework of python
+
+Unit Test-> Component Test -> Integration Test -> E2E
